@@ -3,5 +3,5 @@
 I would like to share with you
 
 <!-- BLOG-POST-LIST:START -->
-- [Useful links for for you in the GitHub environment](https://github.com/uewquewqueqwue/uew-UsefulGitHub) <sup>[EN]</sup> #update v.-61
+- [Useful links for for you in the GitHub environment](https://github.com/uewquewqueqwue/uew-UsefulGitHub) <sup>[EN]</sup> #update v.-62
 <!-- BLOG-POST-LIST:END -->
