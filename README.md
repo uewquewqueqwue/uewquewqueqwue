@@ -7,6 +7,5 @@ I would like to share with you
 <!-- BLOG-POST-LIST:END -->
 
 
-[![uewquewqueqwue's GitHub stats](https://github-readme-stats.vercel.app/api?username=uewquewqueqwue&show_icons=true&theme=tokyonight)</br>
-
+[![uewquewqueqwue's GitHub stats](https://github-readme-stats.vercel.app/api?username=uewquewqueqwue&show_icons=true&theme=tokyonight)]</br>
 [![uewquewqueqwue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uewquewqueqwue&theme=radical)](https://wakatime.com/@uewquewqueqwue)
