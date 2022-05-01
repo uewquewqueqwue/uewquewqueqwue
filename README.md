@@ -4,7 +4,7 @@ I would like to share with you
 
 <!-- BLOG-POST-LIST:START -->
 - [Useful links for for you in the GitHub environment](https://github.com/uewquewqueqwue/uew-UsefulGitHub) <sup>[EN]</sup> #update v.-216
-- [PostgreSQL basics in Python. Module psycopg2](https://github.com/uewquewqueqwue/Basics-PostgreSQL-in-python) <sup>[EN]</sup>
+- [PostgreSQL basics in Python. Module psycopg2 and asyncpg](https://github.com/uewquewqueqwue/Basics-PostgreSQL-in-python) <sup>[EN]</sup>
 - [The simplest steps to interact with Microsoft Access](https://github.com/uewquewqueqwue/Basics-MS-Access-in-python) <sup>[EN]</sup>
 <!-- BLOG-POST-LIST:END -->
 
